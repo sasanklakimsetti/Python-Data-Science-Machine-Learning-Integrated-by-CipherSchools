@@ -1,0 +1,8 @@
+Macro vs VBA
+• A macro is a piece of code.
+• Macros are written in a programming language called VBA (Visual
+Basic for Applications).
+• VBA stands for Visual Basic for Applications, which is used in Excel, Word, PowerPoint, and other Office applications.
+• VBA includes an editor within Excel and Word for writing and
+managing macros.
+

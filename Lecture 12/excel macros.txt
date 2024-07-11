@@ -1,0 +1,4 @@
+excel macros
+
+* Macros in excel are sequences of instructions that automate repetitive tasks.
+* They are recorded actions that you can play back to automate the processes.

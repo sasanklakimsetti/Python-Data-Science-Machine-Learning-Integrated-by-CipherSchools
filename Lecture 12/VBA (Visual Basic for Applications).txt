@@ -1,0 +1,11 @@
+VBA (Visual Basic for Applications)
+• VBA is a programming language integrated into Microsoft Office
+applications.
+• It allows users to write custom code to automate tasks, create user-defined functions, and control Excel's features programmatically.
+
+
+VBA Concepts
+• VBA Editor: The integrated development environment (IDE) where you write and edit VBA code.
+• Modules: Containers for VBA code within a workbook.
+• Procedures: Subroutines (Sub) and functions (Function) that perform specific tasks.
+
