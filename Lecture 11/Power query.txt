@@ -1,0 +1,11 @@
+Power query
+
+It is a data connection technology that enables you to discover, connect, combine, and refine data across a wide variety of sources.
+It provides an easy way to import, clean, and transform data before analyzing it in excel.
+
+Operations:
+Merging queries: Combine data from different tables or sources.
+Appending queries: Stack data from similar tables.
+Unpivoting columns: Transform columns into rows for better analysis.
+Creating calculated columns: Add custom calculations and transformations.
+
