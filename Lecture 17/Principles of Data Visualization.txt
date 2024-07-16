@@ -1,0 +1,46 @@
+What is data visualization?
+visualization of data lets us get deep into the insights to make better decisions
+Different plots: Line chart, Bar Chart, Pie Chart, Histogram, Scatter plot, Box plot
+To decide which plot to be used, it depends on usecase and type of data
+for predictions, line charts can be used
+to make visualizations, the data must be clean. otherwise the visualization will not be appropriate
+Histograms are used for continuous data
+
+Tools: 
+
+Power BI - best for business analysis. It make changes to the visualizations on live basis
+
+plotly - open source and powerful library by python,matlab and R
+it is used to make interactive plots
+there are wide range of charts
+it has customization features and cross platform support
+
+Principles of data visualization
+
+1. Clarity
+-> avoid clutter
+->use clear visual hierarchies
+
+2. Accessibility
+-> use color schemes that are colorblind friendly
+-> ensure text is readable
+
+3. Accuracy
+-> use appropriate scales and axes
+-> avoid misleading representations
+
+4. Relevance
+-> Tailor visualizations to the audience
+-> Highlight what's most important
+
+5. Aesthetics
+-> Balance color and design elements
+-> Use whitespace effectively
+
+6. Interaction
+-> Examples of interactive tools: hover, drill-down
+
+7. Context
+-> Keep the big picture in mind
+-> compare and contrast data points
+
