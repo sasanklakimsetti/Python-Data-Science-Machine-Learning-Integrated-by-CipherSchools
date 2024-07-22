@@ -41,12 +41,11 @@ fig6.show()
 
 data={
     'City':['New York','Los Angeles','Chicago','Houston','Phoenix'],
-    'State':['NY','IL','TX','AZ'],
+    'State':['NY','CA','IL','TX','AZ'],
     'Population':[8419000,3980400,2716000,2328000,1690000]
 }
 #Creating the dataframe
 df=pd.DataFrame(data)
 #create a geographical map
-fig=px.choropleth(df,locations='State',locationmode='USA-States',color_continuous_midpoint='Population',scope='usa',title='Population by areas')
+fig=px.choropleth(df,locations='State',locationmode='USA-States',color='Population',scope='usa',title='Population by areas')
 fig.show()
-
