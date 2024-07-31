@@ -1,0 +1,25 @@
+Inferential Statistics
+
+Key concepts:
+1. Population and Sample:
+* Population: The entire group that you want to draw conclusions about.
+* Sample: A subset of the population that is used to represent the entire group.
+
+Estimation:
+• Point Estimation: Involves using sample data to estimate an unknown population parameter (e.g., population mean or proportion).
+• Interval Estimation (Confidence Intervals): Instead of a single point estimate, an interval estimation provides a range within which the parameter is expected to lie, with a certain degree of confidence (typically 95% or 99%).
+
+Common Point Estimators:
+• Sample Mean as an estimator for the Population Mean
+• Sample Proportion as an estimator for the Population Proportion.
+• Sample Variance as an estimator for the Population Variance
+Example:
+If you have a sample of students' scores from a class test, and you calculate the average score from this sample, that average (sample mean) is a point estimate of the population mean score, assuming the sample is representative Of the entire class.
+
+Components Of Confidence Intervals:
+• Confidence Level: Typically expressed as a percentage (e.g., 95% or 99%), the confidence level
+indicates the probability the confidence interval computed from a sample contains the true
+population parameter.
+• Margin Of Error: The range above and below the point estimate that the actual parameter is
+expected to fall within.
+

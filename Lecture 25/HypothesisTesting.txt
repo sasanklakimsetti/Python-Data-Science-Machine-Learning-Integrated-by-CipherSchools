@@ -1,0 +1,17 @@
+hypothesis Testing
+Definition:
+Hypothesis testing is a statistical method used to make decisions using data from a sample. The goal is to determine whether there is enough evidence in a sample of data to infer that a certain condition is true for the entire population.
+ Steps in Hypothesis Testing:
+I. State the Hypotheses:
+• Null Hypothesis (H0): There is no effect or difference, and it represents a statement of "no change or "no difference."
+• Alternative Hypothesis (H1 or Ha): Contradicts the null hypothesis and represents a statement Of "there is an effect" or "there is a difference."
+II. Choose a significance level(aplha)
+III. Collect data and compute a test statistic
+IV. Determine the P-value
+V. Make a decision
+
+Types of tests:
+1. Z-test
+2. T-test
+3. ANOVA
+4. Chi-square test
